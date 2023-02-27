@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(202, 202, 255);
+}
+
+.canvas{
+    width: 50%;
+    min-height: 500px;
+    background-color: antiquewhite;
+    transform: translate(40%,20%);
+    padding: 40px;
+    text-align: center;
+    border: 3px dashed brown;
+}
+
+.header>h1,h2{
+    font-size: 2.3em;
+    font-weight: 400;
+    color: blue;
+}
+.header>input{
+    width: 80%;
+    height: 30px;
+    font-size: 1.2em;
+    padding: 10px;
+}
+.last-entries{
+    text-align: left;
+}
+
+.main-conatiner>p{
+    font-size: 1.2em;
+}
+
+.city-name{
+    background-color: aliceblue;
+}
